@@ -1,4 +1,9 @@
-remarque: Ce projet a été fait en nestjs sans aucun autre outil
+Ce que j'ai appris :
+
+Fonctionnement de nestJs
+Comment créer une api simple avec un module, un controlleur et un service
+Remarque : ce projet contient pas mal de commentaire d'explication
+Remarque 2:  Ce projet a été fait en nestjs sans aucun autre outil
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
